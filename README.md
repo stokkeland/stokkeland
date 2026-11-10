@@ -10,7 +10,7 @@ __NOTE:__
 Because I have a few "usable" applications listed here, and also several not in the public repos, I keep getting some questions:
 - _Where is the website for this_? Does not exist, not yet anyway, need to run or host it yourself.
 - _How do I run this myself_?  You can figure it out Google/AI, I don't recommend that on internernet unless you understand it.
-- _Can you run it for me_? Show answer is yes, but time and cost will depend on a lot. Contact me <https://sauen.com/>
+- _Can you run it for me_? Short answer is yes, but timing and cost will depend on a lot. Contact me <https://sauen.com/>
 
 
 
